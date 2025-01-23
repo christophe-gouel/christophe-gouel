@@ -1,10 +1,10 @@
 <p><pre align="center">
-  <strong>Christophe Gouel /</strong> <a href="http://www.christophegouel.com/">Homepage</a> / <a href="https://twitter.com/ChristopheGouel">Twitter</a> / <a href="https://scholar.google.com/citations?user=cw0qKdAAAAAJ">Google Scholar</a> / <a href="https://github.com/christophe-gouel">GitHub</a> / <a href="https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel">Dataverse</a>
+  <strong>Christophe Gouel /</strong> <a href="http://www.christophegouel.com/">Homepage</a> / <a href="https://x.com/ChristopheGouel">X</a> / <a href="https://scholar.google.com/citations?user=cw0qKdAAAAAJ">Google Scholar</a> / <a href="https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel">Dataverse</a>
 </pre></p>
 
 I am a researcher at the French National Research Institute for Agriculture, Food and Environment (Paris-Saclay, France). I study agricultural commodity markets and international trade. I am committed to open and reproducible science. You can find all replication materials of my recent work on my [Dataverse](https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel) and of my older work on my [webpage](http://www.christophegouel.com/papers.html).
 
-On GitHub, you can find a few public projects related to [GAMS](https://www.gams.com/45/docs/UG_Parameters.html#UG_Parameters_ScalarAssignments), which I use to build trade models, and to the storage model, a workhorse model of commodity market which requires specific numerical methods to be solved, and [my emacs configuration](https://github.com/christophe-gouel/dotemacs).
+On my GitHub, you can find a few public projects related to [GAMS](https://www.gams.com/45/docs/UG_Parameters.html#UG_Parameters_ScalarAssignments), which I use to build trade models, and to the storage model, a workhorse model of commodity market which requires specific numerical methods to be solved, and [my emacs configuration](https://github.com/christophe-gouel/dotemacs).
 
 ### GAMS-related projects
 
@@ -12,6 +12,7 @@ On GitHub, you can find a few public projects related to [GAMS](https://www.gams
 - **[GAMS Style Guide](https://github.com/christophe-gouel/gams-style-guide)** provides a complete style guide for writing GAMS programs.
 - **[gamsr](https://github.com/christophe-gouel/gamsr)** is a R package to interact with GAMS (read GDX files and launch GAMS scripts).
 - **[Modern GAMS teaching - GAMS with GitHub Classroom](https://github.com/economic-modeling-master/gams-blog)** is a blog post about how to use GitHub Classroom for teaching GAMS.
+- I contribute to the **[Emacs GAMS mode](https://github.com/ShiroTakeda/gams-mode)**, the package that allows to work with GAMS files in Emacs.
 
 ### Storage model
 
