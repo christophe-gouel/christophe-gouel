@@ -4,7 +4,7 @@
 
 I am a researcher at the French National Research Institute for Agriculture, Food and Environment (Paris-Saclay, France). I study agricultural commodity markets and international trade. I am committed to open and reproducible science. You can find all replication materials of my recent work on my [Dataverse](https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel) and of my older work on my [webpage](http://www.christophegouel.com/papers.html).
 
-On my GitHub, you can find a few public projects related to [GAMS](https://www.gams.com/45/docs/UG_Parameters.html#UG_Parameters_ScalarAssignments), which I use to build trade models, and to the storage model, a workhorse model of commodity market which requires specific numerical methods to be solved, and [my emacs configuration](https://github.com/christophe-gouel/dotemacs).
+On my GitHub, you can find a few public projects related to [GAMS](https://www.gams.com), which I use to build trade models, and to the storage model, a workhorse model of commodity market which requires specific numerical methods to be solved, and [my emacs configuration](https://github.com/christophe-gouel/dotemacs).
 
 ### GAMS-related projects
 
