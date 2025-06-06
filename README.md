@@ -1,5 +1,5 @@
 <p><pre align="center">
-  <strong>Christophe Gouel /</strong> <a href="http://www.christophegouel.com/">Homepage</a> / <a href="https://bsky.app/profile/christophe-gouel.bsky.social">BlueSky</a> / <a href="https://x.com/ChristopheGouel">X</a> / <a href="https://scholar.google.com/citations?user=cw0qKdAAAAAJ">Google Scholar</a> / <a href="https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel">Dataverse</a>
+  <strong>Christophe Gouel /</strong> <a href="https://www.christophegouel.com/">Homepage</a> / <a href="https://bsky.app/profile/christophe-gouel.bsky.social">BlueSky</a> / <a href="https://x.com/ChristopheGouel">X</a> / <a href="https://scholar.google.com/citations?user=cw0qKdAAAAAJ">Google Scholar</a> / <a href="https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel">Dataverse</a>
 </pre></p>
 
 I am a researcher at the French National Research Institute for Agriculture, Food and Environment (Paris-Saclay, France). I study agricultural commodity markets and international trade. I am committed to open and reproducible science. You can find all replication materials of my recent work on my [Dataverse](https://entrepot.recherche.data.gouv.fr/dataverse/christophe-gouel) and of my older work on my [webpage](http://www.christophegouel.com/papers.html).
